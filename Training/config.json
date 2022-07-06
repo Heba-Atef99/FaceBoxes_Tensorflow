@@ -1,7 +1,7 @@
 {
   "model_params": {
     "model_dir": "/content/drive/MyDrive/FaceBoxes_Model/Training_Code/models/run02",
-
+    "local_model_dir": "models/run02",
     "weight_decay": 1e-3,
     "score_threshold": 0.05, "iou_threshold": 0.3, "max_boxes": 200,
 
