@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw
 import os
 import cv2
 import base64
-from Testing.face_detector import FaceDetector
+from face_detector import FaceDetector
 
 import filecmp
 
