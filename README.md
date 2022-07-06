@@ -12,17 +12,23 @@ It is part of [Smart Exam Website](https://github.com/Smart-Exam-Website) projec
 
 
 ## Table of Contents.
-## How to install and run the project.
-- Dependencies:
-    Python 3.5.x
+## Dependencies:
+
+    Python 3.9.7
+    Tensorflow 2.8.0 (but the part of saving model and creating pb file needs Tesnsorflow 1.12)
     NumPy
     CV2
     matplotlib
     PIL
     tqdm
-
+    flask
+    flask_restful
 
 ## How to use the project.
+### Pre-trained model
+To use the pre-trained model, you need to download the frozen graph file (model.pb) from [here](https://drive.google.com/drive/folders/1D6vTNt6kiGT4pp6zI0C7-B0_fBw-Jcil?usp=sharing) and run the API file (which depends on face_detector file) or use try_detector notebook
 
+### Evaluation
+### Training
 ## Credits
 This project is inspired by [this repo](https://github.com/TropComplique/FaceBoxes-tensorflow)
