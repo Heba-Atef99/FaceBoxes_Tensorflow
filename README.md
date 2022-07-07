@@ -188,5 +188,11 @@ To train the model you need to:
 
 For more details about the files dependencies and quick notes about each file, you can find it [here](https://drive.google.com/drive/folders/1BWwN0BDxybPw2crOg98ALnc4V3x-0FXY?usp=sharing) 
 
+## Pre-Trained Results on FDDB
+This is the discrete ROC in which True positive rate at 1000 false positives is 0.902
+<div align="center">
+  <img height="300" src="assets/roc.png">
+</div>
+
 ## Credits
 This project is inspired by [this repo](https://github.com/TropComplique/FaceBoxes-tensorflow)
