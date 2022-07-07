@@ -16,7 +16,7 @@ It is part of [Smart Exam Website](https://github.com/Smart-Exam-Website) projec
 2. [Dependencies](#dependencies)
 3. [Project Organization](#project-organization)
 4. [How to use the project](#how-to-use-the-project)
-5. [Credtis](#credits)
+5. [Credits](#credits)
 
 ## Pipeline
 <div align="center">
