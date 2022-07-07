@@ -20,7 +20,7 @@ It is part of [Smart Exam Website](https://github.com/Smart-Exam-Website) projec
 
 ## Pipeline
 <div align="center">
-  <img height="300" src="assets/pipeline.jpg">
+  <img height="200" src="assets/pipeline.jpg">
 </div>
 
 ## Dependencies:
